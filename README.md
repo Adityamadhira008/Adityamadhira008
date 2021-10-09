@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Madhira
+- 👋  Aditya Madhira
 - 👀 I’m interested in AI and Human Computer Interaction
 
 
